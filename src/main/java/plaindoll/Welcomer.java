@@ -8,6 +8,6 @@ public class Welcomer{
 		return "Farewell, good hunter. May you find your worth in waking world.";
 	}
 	public String sayStatus() {
-		return "Hello! My status is Good";
+		return "Hello! My hunter";
 	}
 }
